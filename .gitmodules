@@ -1,0 +1,4 @@
+[submodule "SamplePlugin2/qgis_plugin_tools"]
+	path = SamplePlugin2/qgis_plugin_tools
+	url = https://github.com/GispoCoding/qgis_plugin_tools
+	branch = 6_ci_improvements
